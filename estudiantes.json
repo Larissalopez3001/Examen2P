@@ -1,0 +1,100 @@
+
+{
+
+    "DatosEstudiantes":[ 
+   
+       {
+           "Estudiante_1": [
+           "Cedula: 0803680354",
+           "Apellidos :  López Basurto",
+           "Nombres: Larissa Yuliana",
+           "Semestre: Quinto",
+           "Paralelo: B"
+           ]
+       },
+       {
+           "Estudiante_2": [
+           "Cedula: 1311680358",
+           "Apellidps:  Lopéz Jimenez",
+           "Nombre: Damian  Jose",
+           "Semestre : Cuarto",
+           "Paralelo: B"
+           ]
+           
+       },
+       {
+           "Estudiante_3": [
+           "Cedula: 1311681254",
+           "Apellidos :  Peréz Gómez ",
+           "Nombres: Anthony Josias ",
+           "Semestre: Quinto",
+           "Paralelo: B"
+           ]
+       },
+       {
+           "Estudiante_4": [
+           "Cedula : 2303680555",
+           "Apellidos :  Laz Tuarez",
+           "Nombre : Mateo Gael",
+           "Semestre : Decimo",
+           "Paralelo: B"
+           ]
+       },
+       {
+           "Estudiante_5": [
+           "Cedula :1710368035",
+           "Apellidos : Luna Valle",
+           "Nombres : Mercede Jannet",
+           "Curso : Quinto",
+           "Paralelo: B"
+           ]
+       },
+       {
+           "Estudiante_6": [
+           "Cedula: 1303680313",
+           "Apellidos : Sanchéz Valdez",
+           "Nombres : Carla Diana",
+           "Semestre : Quinto",
+           "Paralelo: A"
+           ]
+       },
+       {
+           "Estudiante_7": [
+           "Cedula : 1378547878",
+           "Apellidos :  Lainez Triviño",
+           "Nombres : Miriam Maria",
+           "Semestre : Tercero",
+           "Paralelo: B"
+           ]
+       },
+       {
+           "Estudiante_8": [
+           "Cedula : 1313680324",
+           "Apellidos :  Salcedo Vela",
+           "Nombres: Noheli Lisbeth",
+           "Semestre: Quinto",
+           "Paralelo : B"
+           ]
+       },
+       {
+           "Estudiante_9": [
+           "Cedula : 1323680322",
+           "Apellidos :  Noboa Ruiz",
+           "Nombres : Juan Daniel",
+           "Semestre : Cuarto",
+           "Paralelo: C"
+           ]
+       },
+       {
+           "Estudiante_10": [
+           "Cedula : 1303680378",
+           "Apellidos:  Robles Peralta",
+           "Nombres : Thalia Milena",
+           "Semenstre  : Primero",
+           "Paralelo : A"
+           ]
+       }
+   ] 
+   
+   }
+   
